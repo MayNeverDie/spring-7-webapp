@@ -54,7 +54,7 @@ public class Book {
         this.isbn = isbn;
     }
 
-    public Publisher getPublishers() {
+    public Publisher getPublisher() {
         return publisher;
     }
 
